@@ -8,4 +8,3 @@
 ## Hello! Welcome to my profile :smile: 
 I'm André and I'm a fullstack Developer
 - ❤️ In love with JavaScript
-- ✏️ Learning Typescript
