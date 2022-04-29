@@ -6,5 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:aluizdev@gmail.com)
 
 ## Hello! Welcome to my profile :smile: 
-I'm André and I'm a fullstack Developer
+I'm André and I'm a fullstack Developer and Salesforce Developer
 - ❤️ In love with JavaScript
+- ❤️ In love with Typescript
+- ❤️ In love with LWC
