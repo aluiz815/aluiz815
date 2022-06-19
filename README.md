@@ -7,5 +7,5 @@
 
 ## Hello! Welcome to my profile :smile: 
 I'm André and I'm a fullstack Developer and Salesforce Developer
-- ❤️ In love with JavaScript && Typescript && LWC
+- ❤️ In love with JavaScript & Typescript & LWC
 
